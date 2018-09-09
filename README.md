@@ -1,4 +1,4 @@
-# pwa-demo-serviceworker
+# pwa-demo-appshell
 
 npm install
 
